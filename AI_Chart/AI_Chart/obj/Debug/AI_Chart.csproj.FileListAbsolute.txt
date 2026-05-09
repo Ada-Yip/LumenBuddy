@@ -1,0 +1,10 @@
+T:\Working\AI_Chart\AI_Chart\bin\Debug\LumenBuddy-Chart.exe.config
+T:\Working\AI_Chart\AI_Chart\bin\Debug\LumenBuddy-Chart.exe
+T:\Working\AI_Chart\AI_Chart\bin\Debug\LumenBuddy-Chart.pdb
+T:\Working\AI_Chart\AI_Chart\obj\Debug\AI_Chart.csproj.AssemblyReference.cache
+T:\Working\AI_Chart\AI_Chart\obj\Debug\AI_Chart.Form1.resources
+T:\Working\AI_Chart\AI_Chart\obj\Debug\AI_Chart.Properties.Resources.resources
+T:\Working\AI_Chart\AI_Chart\obj\Debug\AI_Chart.csproj.GenerateResource.cache
+T:\Working\AI_Chart\AI_Chart\obj\Debug\AI_Chart.csproj.CoreCompileInputs.cache
+T:\Working\AI_Chart\AI_Chart\obj\Debug\LumenBuddy-Chart.exe
+T:\Working\AI_Chart\AI_Chart\obj\Debug\LumenBuddy-Chart.pdb
